@@ -1,0 +1,7 @@
+The ID is: 230
+Customer name: suyashs
+The product rented is: ['FairyCostumeFullSet', 'CopCostumeFullSet']
+The brand of the costume is: ['DollarSmart', ' Cartmax']
+The issue date is:2024/01/29
+The price for the product is: 66.0
+Return date is:2024/02/03

@@ -1,0 +1,6 @@
+CopCostumeFullSet, Cartmax,$15,18
+FormalSuite(Black), Megaplex,$14.5,15
+FairyCostumeFullSet,DollarSmart,$18,21
+PrincessGownFullSet,LouisVitton,$13,12	
+TraditionalCholoSet,HamroSansar,$20,30	
+ReddSparklyBallGown,LouisVitton,$15,5
